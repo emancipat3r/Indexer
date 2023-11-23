@@ -1,0 +1,6 @@
+PyMuPDF
+nltk
+textblob
+numpy
+opencv-python
+pytesseract
