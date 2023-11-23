@@ -1,6 +1,7 @@
-PyMuPDF
 nltk
-textblob
 numpy
 opencv-python
+Pillow
+PyMuPDF
 pytesseract
+textblob
